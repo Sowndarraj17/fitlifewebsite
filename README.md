@@ -5,14 +5,14 @@ fitlife-master website
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="." alt="screenshots"></a>
+ <img width=500px height=200px src="./photos/image1.PNG" alt="screenshots"></a>
 </p>
 
  <h2 align="center">Fitlife-master Website</h2>
 
 ---
 
-<p align="center"> Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+<p align="center"> fitlife-master responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
     <br> 
 </p>
 
@@ -55,13 +55,13 @@ Linux and macOS:
 
 ## 🎉 Screenshots <a name = "Screenshots"></a>
 
- <img width=500px height=200px src="./grilli-master/image%20cover/image2.PNG" alt="screenshots"></a>
- <img width=500px height=200px src="./grilli-master/image%20cover/image3.PNG" alt="screenshots"></a>
- <img width=500px height=200px src="./grilli-master/image%20cover/image4.PNG" alt="screenshots"></a>
- <img width=500px height=200px src="./grilli-master/image%20cover/image5.PNG" alt="screenshots"></a>
- <img width=500px height=200px src="./grilli-master/image%20cover/image6.PNG" alt="screenshots"></a>
- <img width=500px height=200px src="./grilli-master/image%20cover/image7.PNG" alt="screenshots"></a>
- <img width=500px height=200px src="./grilli-master/image%20cover/image8.PNG" alt="screenshots"></a>
- <img width=500px height=200px src="./grilli-master/image%20cover/image9.PNG" alt="screenshots"></a>
- <img width=500px height=200px src="./grilli-master/image%20cover/image10.PNG" alt="screenshots"></a>
- <img width=500px height=200px src="./grilli-master/image%20cover/image11.PNG" alt="screenshots"></a>
+ <img width=500px height=200px src="./photos/image2.PNG" alt="screenshots"></a>
+ <img width=500px height=200px src="./photos/image3.PNG" alt="screenshots"></a>
+ <img width=500px height=200px src="./photos/image4.PNG" alt="screenshots"></a>
+ <img width=500px height=200px src="./photos/image5.PNG" alt="screenshots"></a>
+ <img width=500px height=200px src="./photos/image6.PNG" alt="screenshots"></a>
+ <img width=500px height=200px src="./photos/image7.PNG" alt="screenshots"></a>
+ <img width=500px height=200px src="./photos/image8.PNG" alt="screenshots"></a>
+ <img width=500px height=200px src="./photos/image9.PNG" alt="screenshots"></a>
+ <img width=500px height=200px src="./photos/image10.PNG" alt="screenshots"></a>
+ <img width=500px height=200px src="./photos/image11.PNG" alt="screenshots"></a>

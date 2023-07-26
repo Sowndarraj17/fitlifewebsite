@@ -5,7 +5,7 @@ fitlife-master website
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="./grilli-master/image%20cover/image1.png" alt="screenshots"></a>
+ <img width=500px height=200px src="." alt="screenshots"></a>
 </p>
 
  <h2 align="center">Fitlife-master Website</h2>

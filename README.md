@@ -1,5 +1,5 @@
 # project2
-restaurant website
+fitlife-master website
 # project-documentation
 
 
@@ -8,7 +8,7 @@ restaurant website
  <img width=500px height=200px src="./grilli-master/image%20cover/image1.PNG" alt="screenshots"></a>
 </p>
 
- <h2 align="center">Grilli - Restaurant Website</h2>
+ <h2 align="center">Fitlife-master Website</h2>
 
 ---
 
@@ -25,7 +25,6 @@ restaurant website
 ## 🧐 About <a name = "about"></a>
 Fully Functional responsive restaurant website. The technologies used in this project are javascript. The data is accessed locally using static html template, I am updating to api so that it can be accessed dynamically. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the strutures and technically   for all relevant feature pages.
 
-Although Yelp isn’t just for restaurant reviews – only 20% – it is frequently regarded as the best. One of the most popular review websites online is Yelp, which dominates the search results. It receives 17 million monthly unique visitors, placing it at 189 on the global internet engagement list.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you the project and running on your local machine for development and testing purposes.
@@ -42,7 +41,7 @@ In the project directory, you can run:
 
 ### Run Locally
 
-To run **Grilli** locally, run this command on your git bash:
+To run **fitlife-master** locally, run this command on your git bash:
 
 Linux and macOS:
 
